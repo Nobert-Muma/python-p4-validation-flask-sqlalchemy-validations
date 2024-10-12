@@ -1,4 +1,4 @@
-# Flask-SQLAlchemy Validations
+# Flask-SQLAlchemy Validations.
 
 ## Learning Goals
 
